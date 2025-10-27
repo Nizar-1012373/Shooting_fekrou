@@ -30,6 +30,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
         if (col.gameObject.name == "cube(1)")
         {
             transform.position = new Vector3(0, 0, 2);
+
         }
     }
 }
